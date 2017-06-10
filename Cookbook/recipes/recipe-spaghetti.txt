@@ -1,0 +1,9 @@
+Recipe: Spaghetti
+Ingredients: [flour, salt, water]
+Procedure: [Make wheat into noodles, cook]
+Time (min): 20
+Servings: 3
+Gluten Free? false
+Categories: [Italian, Dinner]
+Author: Don Corleone
+Source: Sicily

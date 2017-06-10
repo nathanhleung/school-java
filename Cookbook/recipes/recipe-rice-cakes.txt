@@ -1,0 +1,9 @@
+Recipe: Rice Cakes
+Ingredients: [rice]
+Procedure: [cook rice, bake]
+Time (min): 10
+Servings: 4
+Gluten Free? true
+Categories: [Rice, Cake]
+Author: Ninja
+Source: Tokugawa Shogunate

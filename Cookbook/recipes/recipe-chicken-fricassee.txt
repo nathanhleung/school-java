@@ -1,0 +1,9 @@
+Recipe: Chicken Fricassee
+Ingredients: [1 whole chicken, coarse salt, freshly ground pepper, 3 tbsp unsalted butter, 1 tbsp extra-virgin olive oil, 1 small yellow onion, 1 carrot, 1 celery stalk, 8 oz cremini mushrooms, 2 tbsp flour, 2/3 cup dry white wine, 4 cups chicken broth, 2 sprigs fresh flat-leaf parsley, 2 sprigs fresh thyme, 1 bay leaf, 2 large egg yolks, 1/4 cup heavy cream, 2 to 3 tbsp fresh tarragon leaves, 2 tbsp fresh lemon juice]
+Procedure: [Brown chicken, Saute mirepoix, Cook mushrooms and flour, Pour in wine and broth, Simmer chicken, Make and add liaison, Finish with tarragon lemon and butter]
+Time (min): 75
+Servings: 4
+Gluten Free? false
+Categories: [Chicken, Dinner]
+Author: Martha Stewart Living
+Source: http://www.marthastewart.com/925889/chicken-fricassee-fricassee-de-poulet-lancienne

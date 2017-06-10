@@ -1,0 +1,9 @@
+Recipe: Strawberry Cake
+Ingredients: [strawberries, cake]
+Procedure: [Grow strawberries, Bake cake]
+Time (min): 65
+Servings: 4
+Gluten Free? false
+Categories: [Cake, Fruit]
+Author: Benjamin Franklin
+Source: France

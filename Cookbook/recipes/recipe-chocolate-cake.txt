@@ -1,0 +1,9 @@
+Recipe: Chocolate Cake
+Ingredients: [chocolate, cake]
+Procedure: [Make chocolate, Bake cake]
+Time (min): 49
+Servings: 5
+Gluten Free? false
+Categories: [Chocolate, Cake]
+Author: Milton Hershey
+Source: Germany
